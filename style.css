@@ -1,0 +1,181 @@
+.container{
+    display: flex;
+  
+    
+}
+.card1{
+    width: 405px;
+    height: 877px;
+    background-color: rgba(0, 0, 0, 0.897);
+    border: 1px solid  transparent;
+    border-radius: 50px;
+    box-shadow:  0px 21px 52px 0px rgba(0, 0, 0, 0.44);
+    
+  margin-right: 30px;
+  margin-top: 130px;
+
+}
+.card-heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 37px;
+    color: #f7f7f7;
+width: 185px;
+height: 89px;
+margin-left: 38px;
+margin-top: 70px;
+
+
+}
+.card-input{
+    width: 319px;
+    height: 55px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: rgba(38, 38, 38, 1);
+    border-color: transparent;
+    border-radius:10px ;
+    padding: 5px 48px;
+
+
+}
+.card-input2{
+    width: 317px;
+    height: 55px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: rgba(38, 38, 38, 1);
+    border-color: transparent;
+    border-radius:10px ;
+    padding: 5px 45px;
+
+
+}
+.card-input-img{
+    position: relative;
+    left: 70px;
+    top: -3px;
+}
+.sign-in{
+    display: flex;
+    justify-content:space-around;
+     margin-top: 40px ;
+}
+.card-signing{
+    margin-top: 30px;
+   
+    font-family: Roboto;
+    font-size: 30px;
+    color: #f7f7f7;
+    font-weight: bold;
+}
+.card-signing-button{
+   border-radius: 50%;
+   width: 64px;
+   height: 65px;
+   margin-top: 17px;
+   background-color: rgba(255, 75, 38, 1);
+   box-shadow:  0px 10px 26px 0px rgba(231, 96, 71, 0.47);
+   border-color: transparent;
+   transition: 1px ease;
+}
+.card-signing-button:hover{
+
+    background-color: rgb(226, 109, 85);
+
+}
+.css-text{
+    color: rgba(103, 103, 103, 1);
+    font-family: Poboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 18px;
+margin-top: 130px;
+margin-left: 150px;
+
+ 
+}
+.site-links-ul{
+    text-decoration: none;
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+.site-links-button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border-color: transparent;
+    background-color: rgba(38, 38, 38, 1);
+    margin-left: 10px;
+}
+.site-links-button~.site-links-button{
+    margin-left: 30px;
+}
+.site-links-list{
+    list-style-type: none;
+    
+}
+.css-button{
+    border: transparent;
+    color: rgba(103, 103, 103, 1);
+    font-family: Roboto;
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+background-color: transparent;
+margin-left:170px ;
+margin-top: 100px;
+}
+.card2{
+    width: 405px;
+    height: 877px;
+    background-color: rgba(0, 0, 0, 0.897);
+    border: 1px solid  transparent;
+    border-radius: 50px;
+    box-shadow:  0px 21px 52px 0px rgba(0, 0, 0, 0.44);
+    
+  margin-right: 30px;
+  margin-top: 170px;
+
+
+}
+.card-input-img2{
+    position: relative;
+    left:-300px;
+    top: -3px;
+}
+.card-input3{
+    width: 317px;
+    height: 55px;
+    margin-top: 30px;
+    margin-left: 47px;
+    background-color: rgba(38, 38, 38, 1);
+    border-color: transparent;
+    border-radius:10px ;
+    padding: 5px 45px;
+
+
+}
+.css-button2{
+    border: transparent;
+    color: rgba(103, 103, 103, 1);
+    font-family: Roboto;
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+background-color: transparent;
+margin-left:170px ;
+margin-top: 40px;
+}
+.site-links{
+    margin-top: -40px;
+}
+.site-links2{
+    margin-top: -70px;
+}
