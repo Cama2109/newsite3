@@ -1,11 +1,4 @@
-.container{
-   
-   
-  
-    
-  
-    
-}
+
 
 .card1{
     width: 405px;
@@ -38,7 +31,7 @@ margin-top: 70px;
     width: 319px;
     height: 55px;
     margin-top: 30px;
-    margin-left: 20px;
+    margin-left: 23px;
     background-color: rgba(38, 38, 38, 1);
     border-color: transparent;
     border-radius:10px ;
@@ -184,4 +177,46 @@ margin-top: 40px;
 }
 .site-links2{
     margin-top: -70px;
+}
+.card-input-link{
+ margin-left: 250px;
+ text-decoration: none;
+ color: rgba(255, 75, 38, 1);
+ transition: 1s ease;
+}
+.card-input-link:hover{
+    color: rgb(240, 142, 122);
+}
+.card3{
+    width: 405px;
+    height: 877px;
+    background-color: rgba(0, 0, 0, 0.897);
+    border: 1px solid  transparent;
+    border-radius: 50px;
+    box-shadow:  0px 21px 52px 0px rgba(0, 0, 0, 0.44);
+    
+  margin-left: auto;
+  margin-right:auto ;
+  margin-top: 170px;
+
+
+}
+.card-input-list{
+    width: 306px;
+    color:rgba(255, 75, 38, 1);
+    margin-left: 30px;
+    margin-top: 30px;
+   
+}
+.css-button3{
+    border: transparent;
+    color: rgba(103, 103, 103, 1);
+    font-family: Roboto;
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+background-color: transparent;
+margin-left:170px ;
+margin-top: 360px;
 }
